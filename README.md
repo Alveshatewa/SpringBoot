@@ -1,2 +1,4 @@
 # dio-springboot
-Curso de Springboot para a digital Innovation one
+Curso de Springboot fornecido pela digital Innovation One.
+
+Para mais informações, consulte: [www.web.dio.me](https://web.dio.me)
